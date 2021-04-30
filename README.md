@@ -29,9 +29,9 @@ a.hotel_name
 b.address
 c.stars
 d.price
-c.photo
-e.hotel_currency_code
-F.hotel_id (Keep in Hidden field) Give book button to use this value
+e.photo
+f.hotel_currency_code
+g.hotel_id (Keep in Hidden field) Give book button to use this value
 
 5. After clicking the Book Button display the particular hotel details extract it from JSON
 
@@ -39,7 +39,7 @@ a.hotel_name
 b.address
 c.stars
 d.price
-c.photo
-e.hotel_currency_code
-F.hotel_id
-g.amenities
+e.photo
+f.hotel_currency_code
+g.hotel_id
+h.amenities
